@@ -1,10 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x:hidden;
+}
 h1 {
     font-family: "Moon Dance", serif;
   
 }
-
 .carousel-item img {
-    height: 98vh;
+    height: 100vh;
 }
 
 .card-body img {
